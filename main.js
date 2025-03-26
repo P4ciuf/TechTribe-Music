@@ -11,7 +11,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Configura il tuo token Discord e l'ID del canale vocale
-const TOKEN = 'MTM1NDUyNzgwNDQxODU2MDA1Mw.GVSMX1.2IBD-d6v_sP5vdG1EydFXK5F9uoMTFBYDUVkq4';
+const TOKEN = 'MTM1NDUyNzgwNDQxODU2MDA1Mw.GFh9q_._Or-heoU8TFcoRJqG7Z_YjwQltre-Y2X-fxVt0';
 const VOICE_CHANNEL_ID = '1213582269936308265';
 const GUILD_ID = '1212788183079714846';
 
